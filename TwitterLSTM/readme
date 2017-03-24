@@ -1,0 +1,11 @@
+Vocab : 64 Characters
+Dataset : array of sequences of 40 characters each
+
+Structure
+LSTM : 256
+Dropout : 0.5
+
+Training
+Batch size : 9000
+Validation Split: 0.2
+
