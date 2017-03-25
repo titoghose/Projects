@@ -1,0 +1,4 @@
+python src/lstm_twitter/scripts/Trump_Predict.py hillary hillary_char_to_int.npy hillary_int_to_char.npy weights-improvement-hillary-00-1.6549.hdf5 hillary_Model.h5 trump 128
+
+python src/lstm_twitter/scripts/Trump_Predict.py trump trump_char_to_int.npy trump_int_to_char.npy weights-improvement-trump-00-1.6292.hdf5 Trump_Model.h5 hillary 256 
+
